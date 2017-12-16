@@ -90,6 +90,6 @@
                 &.off
                     bg-image('star24_off')
                 &:last-child
-                    margin-right: 0
+             
 
 </style>
